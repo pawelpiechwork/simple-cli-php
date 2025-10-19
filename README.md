@@ -2,6 +2,8 @@
 
 The app reads data from an SQLite table and shows it in the console.
 
+![Dependency Graph](./docs/dependency_graph.png)
+
 ## Run with PHP
 
 ```bash
